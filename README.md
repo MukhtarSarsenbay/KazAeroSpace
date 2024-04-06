@@ -3,18 +3,9 @@
 Simple CRM for fitness Trainers
 
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="url video in google drive/preview" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe src="https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/preview" width="640" height="480" allow="autoplay"></iframe>
-
-</body>
-</html>
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 #### Installation
 
 * 1 - Clone repo
