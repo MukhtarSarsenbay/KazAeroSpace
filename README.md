@@ -2,7 +2,7 @@
 
 Simple CRM for fitness Trainers
 
-[![Video Thumbnail](https://drive.google.com/uc?export=view&id=IMAGE_ID)](https://drive.google.com/uc?export=view&id=VIDEO_ID "Click to play")
+[![Video Thumbnail](https://drive.google.com/uc?export=view&id=IMAGE_ID)]([https://drive.google.com/uc?export=view&id=VIDEO_ID "Click to play](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link)")
 
 
 #### Installation
