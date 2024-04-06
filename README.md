@@ -2,7 +2,7 @@
 
 Simple CRM for fitness Trainers
 
-
+https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=sharing
 #### Installation
 
 * 1 - Clone repo
@@ -21,11 +21,11 @@ python manage.py runserver
   Password: 1234
 
 #### Features
-* In profiles, user can get own Role
+* In profiles, users can get their Role
 * Trainers: Field to register user
-* Gymrooms: Creaing new gym rooms with their address
-* schedules: Each trainer has own working hours and here it can be created
-* appointment: User can make an appoinment for the trainer that he wants, It won't be possible if user chose the time where trainer will not work
+* Gymrooms: Creating new gym rooms with their address
+* schedules: Each trainer has their own working hours and here it can be created
+* appointment: The user can make an appointment for the trainer that he wants, It won't be possible if the user chose the time where the trainer will not work
 
 
 
