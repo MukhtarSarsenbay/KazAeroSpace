@@ -2,7 +2,7 @@
 
 Simple CRM for fitness Trainers
 
-[![Alt text](IMAGE_LINK)](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link "Click to play")
+[![Video Recording ](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link)](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link "Click to play")
 
 
 
