@@ -2,7 +2,8 @@
 
 Simple CRM for fitness Trainers
 
-[![Video Thumbnail](https://drive.google.com/uc?export=view&id=IMAGE_ID)]([https://drive.google.com/uc?export=view&id=VIDEO_ID "Click to play](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link)")
+[![Alt text](IMAGE_LINK)](https://drive.google.com/file/d/1UJwdUDvxcXYzc8gjiiTKtvew8fmShzwc/view?usp=drive_link "Click to play")
+
 
 
 #### Installation
@@ -27,13 +28,13 @@ python manage.py runserver
 * Trainers: Field to register user
 * Gymrooms: Creating new gym rooms with their address
 * schedules: Each trainer has their own working hours and here it can be created
-* appointment: The user can make an appointment for the trainer that he wants, It won't be possible if the user chose the time where the trainer will not work
+* appointment: The user can make an appointment for the trainer that he wants, It won't be possible if the user chooses the time when the trainer will not work
 
 
 
 #### Tech Stack
 * Django
-* Django Rest Api 
+* Django Rest Framefork
 * Sqlite3
 
 
